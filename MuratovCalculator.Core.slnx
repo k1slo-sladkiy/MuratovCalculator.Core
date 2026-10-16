@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MuratovCalculator.Core/MuratovCalculator.Core.csproj" />
+  <Project Path="MuratovCalculator.Tests/MuratovCalculator.Tests.csproj" />
+  <Project Path="MuratovCalculator.WPF/MuratovCalculator.WPF.csproj" />
+</Solution>
